@@ -8,7 +8,7 @@ import java.io.IOException;
 //import java.io.StringReader;
 
 public class ConsultaApi {
-    String apiKEy = "4ef9674d5a5ad623261026aa"; // Cambiar por el key
+    String apiKEy = "xxx-xxx-xxx-xxx"; // Cambiar por el key
 
     public void currencyApilatest() {
         String apiUrl = "https://v6.exchangerate-api.com/v6/" + apiKEy + "/latest/USD";
